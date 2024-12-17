@@ -1,0 +1,4 @@
+type Query {
+    getPcByProce(proc: String) : [Pc]
+    getPcByProceAndPrice(proce :String, price: Float): [Pc]
+}

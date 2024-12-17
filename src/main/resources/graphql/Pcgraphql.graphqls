@@ -1,0 +1,7 @@
+type Pc{
+    proce: String
+    ram:String
+    hardDrave:String
+    price: Float
+    macAddress: String
+}

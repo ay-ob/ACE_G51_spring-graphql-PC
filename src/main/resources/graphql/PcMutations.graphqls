@@ -1,0 +1,4 @@
+type Mutation{
+    savePc( pc : PcRequest): Pc
+    deletePc( id: ID ): Boolean
+}
